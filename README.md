@@ -1,1 +1,0 @@
-# quant-strategies-hub

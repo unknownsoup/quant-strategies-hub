@@ -1,0 +1,6 @@
+This is my first Automated Trading Software. I'm using the Alpaca API to recieve historical chart data and live test
+my strategy via paper trading. 
+
+
+Strategy: Momentum + Alt Data
+I intend to utilize both typical momentum analysis and alternative data like news report sentiment to signal buy and sell orders
