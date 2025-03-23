@@ -1,6 +1,8 @@
 import os
 from alpaca.trading.client import TradingClient
 from alpaca.trading.requests import GetAssetsRequest
+from alpaca.trading.requests import MarketOrderRequest
+from alpaca.trading.enums import OrderSide, TimeInForce
 
 API_KEY = os.getenv('APCA_API_KEY_ID')
 SECRET_KEY = os.getenv('APCA_API_SECRET_KEY')
